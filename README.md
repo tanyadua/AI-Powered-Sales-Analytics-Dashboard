@@ -31,4 +31,8 @@ This project analyzes sales performance across products, categories, and regions
 ## Files
 
 * AI_Powered_Sales_Analytics_Dashboard.xlsx
-* dashboard-screenshot.png
+* dashboard-screenshot.png(Dasboard_Screenshot.png)
+  
+
+  ![Uploading Dashboard_Screenshot.png…]()
+
